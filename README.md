@@ -19,16 +19,16 @@ The proposed idea is to develop a **smart, AI-powered railway station navigation
 The solution consists of 3 major layers:
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/f16ab231-5dfd-4ba2-9210-2075f5f2e7c8" />
 
-1️⃣ User Layer
+1️. User Layer
 Mobile App (Android/iOS)
 Digital Kiosk Touch Screens
 Voice Interface
-2️⃣ Application Layer
+2️. Application Layer
 Navigation Engine
 Route Optimization (AI)
 Voice Assistant
 Accessibility Module
-3️⃣ Data Layer
+3️. Data Layer
 Station Map Database
 Real-Time Updates (platform changes, congestion)
 User Data (optional)
